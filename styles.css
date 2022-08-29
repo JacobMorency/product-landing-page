@@ -94,3 +94,31 @@ button {
     margin-top: 5px;
     font-weight: 700;
 }
+
+
+
+/* panel section*/
+
+h3 {
+   font-size: 36px;
+   font-weight: bolder;
+   color: #1f2937;
+   text-align: center;
+   margin: 40px; 
+}
+
+.card-container {
+    display: flex;
+    /* justify-content: space-evenly; */
+    gap: 35px;
+    margin: 50px 350px;
+}
+
+.card-box {
+    border: #3882f6;
+    border-style: solid;
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+}
+
